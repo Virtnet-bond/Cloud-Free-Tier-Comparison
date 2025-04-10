@@ -27,6 +27,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 18. [Tencent Cloud](#18-tencent-cloud)
 19. [Vercel](#19-vercel)
 20. [Zeabur](#20-zeabur)
+21. [Virtnet.bond](#21-virtnet)
 
 ## 1. AWS
 
@@ -268,3 +269,14 @@ Homepage: [Zeabur](https://zeabur.com/pricing)
 
 - 100GB outbound data transfer per month
 - US$ 5 usage fee per month
+
+## 21. Virtnet.bond
+
+Homepage: [Virtnet.bond](https://virtnet.bond)
+
+### Activation Fee Only
+
+- Full Featured VPS with IPv6 Public Addresses
+- 500GB Ingress/Egress Data
+
+
